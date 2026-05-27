@@ -121,9 +121,8 @@
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/chaitanygq5d">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=green"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50"/>
 </a>
-
 </div>
 
 ---
