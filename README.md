@@ -120,9 +120,14 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/profile/chaitanygq5d">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
+
+<a href="https://www.geeksforgeeks.org/profile/chaitanygq5d">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="50" width="50"/>
+</a>
+
 </div>
 
 ---
