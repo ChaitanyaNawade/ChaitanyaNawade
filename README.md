@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Chaitanya%20Nawade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Integration%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0D1117,100:000000&height=250&section=header&text=Chaitanya%20Nawade&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%20Integration%20Enthusiast&descAlignY=58&descSize=18"/>
 
 </div>
 
@@ -80,9 +80,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaNawade&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChaitanyaNawade&show_icons=true&theme=tokyonight&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&icon_color=00F7FF&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaNawade&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaNawade&theme=black-ice&background=000000&stroke=00F7FF&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&hide_border=true"/>
 
 </div>
 
@@ -92,7 +92,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaNawade&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaNawade&layout=compact&theme=tokyonight&bg_color=000000&title_color=00F7FF&text_color=FFFFFF&hide_border=true"/>
 
 </div>
 
@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaNawade&theme=tokyonight&row=1&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaNawade&theme=onestar&no-frame=true&no-bg=true&margin-w=15"/>
 
 </div>
 
@@ -120,11 +120,15 @@
 <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-
 </div>
 
 ---
 
+# ⚡ Current Focus
+
+```yaml
+Backend Development
+Spring Boot APIs
+AI Integration
+System Design
+Problem Solving
