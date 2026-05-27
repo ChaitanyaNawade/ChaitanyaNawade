@@ -121,7 +121,7 @@
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/chaitanygq5d">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="50"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </div>
 
