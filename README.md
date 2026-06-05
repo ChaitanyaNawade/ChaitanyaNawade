@@ -36,8 +36,6 @@ public class ChaitanyaNawade {
 }
 ```
 
----
-
 ## 🚀 Tech Stack
 
 <div align="center">
