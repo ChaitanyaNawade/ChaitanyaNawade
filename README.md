@@ -15,24 +15,14 @@
 ```java
 public class ChaitanyaNawade {
 
-    String name        = "Chaitanya Nawade";
-    String role        = "Java Backend Developer";
-    String education   = "B.E. Information Technology — 2025 Batch";
-    String university  = "Savitribai Phule Pune University";
-    String location    = "Pune, Maharashtra, India";
+    String name      = "Chaitanya Nawade";
+    String role      = "Java Backend Developer";
+    String location  = "Pune, Maharashtra, India";
+    String education = "B.E. IT — 2025 | SPPU";
 
-    String[] currentlyLearning = {
-        "Spring Security", "JWT Authentication",
-        "Docker", "Microservices", "DSA"
-    };
-
-    String[] techStack = {
-        "Java", "Spring Boot", "Spring Security",
-        "MySQL", "JPA", "Hibernate",
-        "REST APIs", "C", "C++", "Python"
-    };
-
-    String goal = "Building scalable, secure backend systems";
+    String[] learning = {"Spring Security", "JWT", "Docker", "DSA"};
+    String[] skills   = {"Java", "Spring Boot", "MySQL", "C", "C++"};
+    String goal       = "Building scalable secure backend systems";
 }
 ```
 
