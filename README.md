@@ -12,19 +12,19 @@
 
 ## 👋 About Me
 
-```java
-public class ChaitanyaNawade {
+## 👋 About Me
 
-    String name      = "Chaitanya Nawade";
-    String role      = "Java Backend Developer";
-    String location  = "Pune, Maharashtra, India";
-    String education = "B.E. IT — 2025 | SPPU";
+🚀 Java Backend Developer passionate about building scalable and secure applications
 
-    String[] learning = {"Spring Security", "JWT", "Docker", "DSA"};
-    String[] skills   = {"Java", "Spring Boot", "MySQL", "C", "C++"};
-    String goal       = "Building scalable secure backend systems";
-}
-```
+💻 Tech Stack: Java, Spring Boot, Spring Security, MySQL, C, C++, Python
+
+🔐 Currently working on Authentication & Authorization using Spring Security and JWT
+
+📚 Learning Docker, Microservices, System Design and DSA
+
+🤖 Interested in AI Integration and Backend Engineering
+
+🎯 Goal: Build production-ready backend systems
 
 ## 🚀 Tech Stack
 
